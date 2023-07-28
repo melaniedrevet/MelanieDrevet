@@ -3,8 +3,7 @@
 #### Mes compétences 
 
 - 🖥  HTML, CSS, JavaScript, TypeScript, PHP, MySQL
-- 📚 Angular, VueJS, Symfony
+- 📚 Angular, VueJS, React
 - ✏️ Wordpress, Joomla
-- 📱 Swift, Java
-- 🎨 Suite Adobe, Figma
+- 🎨 Suite Adobe, Adobe XD, Figma
 
