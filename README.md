@@ -1,8 +1,6 @@
-## Bienvenue à toi ! 👋
+## Salut ! 👋
 
-#### Je suis étudiante en Bachelor Développement Web à MyDigitalSchool 🎓 
-##### 20 ans - Grenoble
-#####
+#### Mes compétences 
 
 - 🖥  HTML, CSS, JavaScript, TypeScript, PHP, MySQL
 - 📚 Angular, VueJS, Symfony
